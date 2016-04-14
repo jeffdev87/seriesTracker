@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SeriesTracker</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Base Navigation -->
+    <string name="base_navigation_drawer_open">Open</string>
+    <string name="base_navigation_drawer_close">Close</string>
+    <string name="default_test">Test</string>
+    <string name="episode_test_title">Episode Title</string>
+    <string name="episode_time">Time</string>
+    <string name="summary_title">Summary</string>
+    <string name="episode_text_default">
+        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos,
+        e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja
+        de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não
+        só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo
+        essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou
+        decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser
+        integrado a softwares de editoração eletrônica como Aldus PageMaker.
+    </string>
+</resources>
